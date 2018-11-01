@@ -1,0 +1,13 @@
+Package: myPack
+Type: Package
+Title: A Test Package for Dataschool
+Version: 0.1.0
+Authors@R: person("Hiz", "Jamali", email = "first.last@example.com",
+                 role = c("aut", "cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package is for learning how packages work.
+  There is no functionality
+License: MIT + file Licence
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
